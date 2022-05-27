@@ -3,8 +3,11 @@
 <!--
 **victorcharl/victorcharl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<div align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
 
-<p align="center">- 🔭 I’m currently working on react native app named "Daddy's Cart"</p>
+<p align="center">- 🔭 I’m currently working on my personal app named "Daddy's Cart" using ReactNative Framework</p>
 <p align="center">- 🌱 I’m currently learning python and javascript</p>
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcharl&theme=radical&layout=compact)
