@@ -28,10 +28,6 @@
 </div>
   
   
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcharl&theme=radical&layout=compact)
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=victorcharl&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-  
   
  ### Languages and Tools
   <div>
