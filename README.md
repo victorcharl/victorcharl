@@ -3,17 +3,10 @@
 <!--
 **victorcharl/victorcharl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 <div align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" 
         width="100">
-
-<!-- <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div> -->
-  
-  <!--NO AVAILABLE LINK AT THE MOMENT-->
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/victor-q-c/" >
@@ -26,8 +19,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  
-  
   
  ### Languages and Tools
   <div>
@@ -42,12 +33,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
- 
-<h2 align = "center" >FREE WEBSITES TO LEARN HOW TO CODE</h></br>
-
-<!-- SYNTAX ![alt text] (url)
--->
-  [W3Schools](https://www.w3schools.com/) <br/>
-[DASH](https://dash.generalassemb.ly/) </br>
-[THE ODIN PROJECT](https://www.theodinproject.com/)
-
+<br/>
+<a href="https://github.com/victorcharl/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorcharl&theme=dark&rank_icon=percentile" />
+</a>
+<a href="https://github.com/victorcharl/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcharl&layout=donut&teme=dark&langs_count=8&card_width=320" />
+</a>
